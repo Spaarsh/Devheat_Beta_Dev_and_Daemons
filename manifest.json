@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
-    "name": "Youtube Like/Dislikes Viewer",
-    "description": "This extension shows the likes and dislikes on videos!",
+    "name": "Youtube Search Page Like/Dislikes Viewer",
+    "description": "This extension shows the likes and dislikes on videos enlisted on the search page!",
     "version": "1.0",
     "permissions":["storage","tabs","activeTab"],
     "host_permissions":["https://*.youtube.com/*"],
@@ -11,9 +11,7 @@
             "js":["content.js"]
         }
     ],
-    "background":{
-        "service_worker":"background.js"
-    },
+    
     "web_accessible_resources":[
         {
             "resources":[
