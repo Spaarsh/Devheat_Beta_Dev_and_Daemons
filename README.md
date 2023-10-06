@@ -18,4 +18,5 @@ Several new features are supposed to be added. The next feature is to enable thi
 The User Interface has to be simple and intutive and it interference in the users' interaction with the main website should be kept to a minimum.
 
 ##
+Link to the demonstration video: https://drive.google.com/file/d/1LfhHykks_Mvvptf_cwsn4govpChr3XXr/view?usp=drive_link
 This project was developed as a solution to the problem statement provided by the organizers of Devheat Beta, GDSC IIIT Surat.
